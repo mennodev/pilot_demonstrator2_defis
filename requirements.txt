@@ -5,3 +5,4 @@ pyogrio
 folium
 streamlit_folium
 leafmap
+matplotlib
